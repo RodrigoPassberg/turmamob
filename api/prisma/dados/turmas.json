@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Robótica Sala 03",
+    "professorId": 4
+  },
+  {
+    "nome": "Automação Industrial Sala 01",
+    "professorId": 2
+  },
+  {
+    "nome": "Mecatrônica Sala 04",
+    "professorId": 3
+  },
+  {
+    "nome": "Eletrotécnica Sala 02",
+    "professorId": 5
+  },
+  {
+    "nome": "Programação Sala 01",
+    "professorId": 1
+  },
+  {
+    "nome": "Sistemas Embarcados Sala 01",
+    "professorId": 2
+  },
+  {
+    "nome": "Mecânica de Precisão Sala 02",
+    "professorId": 1
+  },
+  {
+    "nome": "Controle e Automação Sala 02",
+    "professorId": 4
+  },
+  {
+    "nome": "Energias Renováveis Sala 01",
+    "professorId": 3
+  }
+]
